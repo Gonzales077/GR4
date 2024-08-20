@@ -9,7 +9,4 @@
     include 'design/content.php';
 ?>
 
-<?php
-    include 'admin.php';
-    include 'user.php';
-?>
+
